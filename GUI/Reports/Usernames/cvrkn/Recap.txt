@@ -1,0 +1,25 @@
+REPORT CREATED BY MR.HOLMES
+
+GENERATING SUMMARY REPORT...
+GENERAL: cvrkn HAS BEEN FOUND ON 30 SITES OUT OF 150, cvrkn IS PRESENT ON 20.0% OF THE SITES
+GENERATING TAGS REPORT
+
+[TAGS FOUND:Social, Photo, Video, Chatting, Programming, OpenSource, Sharing, Youtube, Image, Streaming, Gaming, Forum-Programming, Music, Art, Blog, PlayStation, Link, Gaming, Steam, Archieve, TikTok, Fashion, Modelling, Training, Donations, Health, Gaming, Roblox, Questions, Forum]
+
+MOST RELEVANT TAGS:Video, Social, Chatting, Photo, Image, Gaming, Streaming, Music, Modelling, Programming, Health
+
+GENERATING GENERAL HYPOTESY REPORT...
+
+PERCENTUAL HIGH: IT LOOKS LIKE THAT cvrkn PERCENTAGE IS HIGH: 20.0...THAT MAY MEAN THAT IS A PERSON THAT LIKES SHARE MOMENTS WITH OTHERS 
+GETTING POSSIBLE HOBBIES/INTERESTS:
+Video
+Social
+Chatting
+Photo
+Image
+Gaming
+Streaming
+Music
+Modelling
+Programming
+Health

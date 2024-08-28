@@ -1,0 +1,60 @@
+SCANNING EXECUTED ON:
+Date: 08/04/2024 09:45:11
+
+USERNAME FOUND ON:
+
+INSTAGRAM DATA:
+USERNAME: sarathkumar
+NAME: 
+BIO: 
+POSTS: 0
+FOLLOWED: 0
+FOLLOWERS: 64
+PRIVATE-ACCOUNT: FALSE
+
+TIKTOK DATA:
+USERNAME: @säråthkúmàr
+NAME: Säråth Kúmàr
+LIKES: 88
+FOLLOWED: 47 following
+FOLLOWERS: 46 followers
+
+GIT-HUB DATA:
+USERNAME: sarathkumar
+BIO: None
+REPOSITORIES: 0
+GISTS: 0
+CREATED-ON: 2012-05-03T12:04:52Z
+UPDATED-ON: 2015-04-07T15:49:01Z
+FOLLOWERS: 0
+FOLLOWING: 0
+BLOG: 
+LOCATION: None
+NAME: None
+EMAIL: None
+TWITTER: None
+HIREABLE: None
+COMPANY: None
+
+GITLAB DATA:
+ID: 688874
+NAME: Sarath Kumar
+USERNAME: sarathkumar
+STATUS: active
+
+CHESS.COM DATA:
+ID: 2554439
+USERNAME: sarathkumar
+NAME: sarath kumar
+FOLLOWERS: 0
+STATUS: basic
+LOCATION: trivandrum
+TITLE: None
+STREAMER: False
+TWITCH LINK: NONE
+VERIFIED: False
+LEAGUE: Stone
+COUNTRY: IN
+PROFILE-PIC: https://images.chesscomfiles.com/uploads/v1/user/2554439.f8fb3e22.200x200o.335b7aabdc0f.jpg
+
+SCANNING EXECUTED WITH Mr.Holmes

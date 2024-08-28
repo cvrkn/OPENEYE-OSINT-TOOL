@@ -1,0 +1,22 @@
+SCANNING EXECUTED ON:
+Date: 08/04/2024 09:11:41
+IP: 110.224.94.250
+NATION: India
+NATION-CODE: IN
+REGION-CODE: TN
+REGION-NAME: Tamil Nadu
+CITY: Chennai
+TIMEZONE: Asia/Kolkata
+ISP: BHARTI
+ORG: BCL NORTH
+AS: AS45609 Bharti Airtel Ltd. AS for GPRS Service
+LAT: 12.8996
+LONG: 80.2209
+ZIP/POSTAL-CODE: 600014
+
+MALICIOUS/FAKE LINK FOUND ON:
+GOOD LOOKS LIKE THIS WEBSITE/DOMAIN IS SAFE :-)
+FOR MAJOR INFORMATION CONSULT THESE LINKS...
+https://www.scamadviser.com/check-website/110.224.94.250
+https://www.ssltrust.com.au/ssl-tools/website-security-check?domain=110.224.94.250
+https://www.islegitsite.com/check/110.224.94.250
